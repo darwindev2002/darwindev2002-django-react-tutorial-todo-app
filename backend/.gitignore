@@ -1,0 +1,22 @@
+# Text backup files
+*.backup
+
+# Database
+*.sqlite3
+*.sqlite-journal
+
+*.log
+*.pot
+*.pyc
+*.pyo
+*.db
+__pycache__/
+*.egg-info/
+*.egg
+media/
+
+# Venv files
+django_env/
+
+# Credentials
+*.env
